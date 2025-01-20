@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data_types", "data_types\da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{256A7B6F-FADC-4D93-8B74-9D55BA0ABC46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constants", "constants\constants.csproj", "{BCE50CA2-7D5A-4750-8167-824A876E3EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{256A7B6F-FADC-4D93-8B74-9D55BA0ABC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{256A7B6F-FADC-4D93-8B74-9D55BA0ABC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{256A7B6F-FADC-4D93-8B74-9D55BA0ABC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE50CA2-7D5A-4750-8167-824A876E3EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE50CA2-7D5A-4750-8167-824A876E3EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE50CA2-7D5A-4750-8167-824A876E3EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE50CA2-7D5A-4750-8167-824A876E3EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
