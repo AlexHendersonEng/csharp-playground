@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "base_keyword", "base_keywor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{59112B6D-AA4A-4382-AB73-211D525CBF53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{9D9420C3-EB48-431F-8ECF-0F667C7B5477}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{59112B6D-AA4A-4382-AB73-211D525CBF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59112B6D-AA4A-4382-AB73-211D525CBF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59112B6D-AA4A-4382-AB73-211D525CBF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9420C3-EB48-431F-8ECF-0F667C7B5477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9420C3-EB48-431F-8ECF-0F667C7B5477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9420C3-EB48-431F-8ECF-0F667C7B5477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9420C3-EB48-431F-8ECF-0F667C7B5477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
