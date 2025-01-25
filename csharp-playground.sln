@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static_keyword", "static_ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\inheritance.csproj", "{A23928E1-06DC-445D-917C-378027A233F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract_keyword", "abstract_keyword\abstract_keyword.csproj", "{7DF93FF8-15FE-4542-8934-B81C31823152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A23928E1-06DC-445D-917C-378027A233F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A23928E1-06DC-445D-917C-378027A233F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A23928E1-06DC-445D-917C-378027A233F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF93FF8-15FE-4542-8934-B81C31823152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF93FF8-15FE-4542-8934-B81C31823152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF93FF8-15FE-4542-8934-B81C31823152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF93FF8-15FE-4542-8934-B81C31823152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
