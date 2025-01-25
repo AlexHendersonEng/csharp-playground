@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var_keyword", "var_keyword\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lists", "lists\lists.csproj", "{6051FD86-325F-4E31-B5A4-0CABB4DC5B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using_keyword", "using_keyword\using_keyword.csproj", "{9A23F2B3-77A1-4CD0-AE6A-EBBD7D8D0636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{6051FD86-325F-4E31-B5A4-0CABB4DC5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6051FD86-325F-4E31-B5A4-0CABB4DC5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6051FD86-325F-4E31-B5A4-0CABB4DC5B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A23F2B3-77A1-4CD0-AE6A-EBBD7D8D0636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A23F2B3-77A1-4CD0-AE6A-EBBD7D8D0636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A23F2B3-77A1-4CD0-AE6A-EBBD7D8D0636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A23F2B3-77A1-4CD0-AE6A-EBBD7D8D0636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
