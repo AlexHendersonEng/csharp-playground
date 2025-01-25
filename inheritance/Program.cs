@@ -1,5 +1,5 @@
 ﻿/*
-    inheritance: Allows a class to inherit members and methods from a parent class.
+    inheritance: Allows a class to inherit fields and methods from a parent class.
 */
 
 namespace inheritance
@@ -11,11 +11,11 @@ namespace inheritance
             // Instantiate Car object
             Car car = new Car();
 
-            // Print inherited member and call inherited method
+            // Print inherited field and call inherited method
             Console.WriteLine("Car speed: " + car.speed);
             car.go();
 
-            // Print non-inherited member
+            // Print non-inherited field
             Console.WriteLine("Car number of wheels: " + car.wheels);   
         }
     }

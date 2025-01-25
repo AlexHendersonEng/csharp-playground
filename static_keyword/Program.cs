@@ -1,6 +1,6 @@
 ﻿/*
-    static: Modifier which can be applied to classes, members and methods. A static 
-            class can only can only contain static members and methods. Static members
+    static: Modifier which can be applied to classes, fields and methods. A static 
+            class can only can only contain static fields and methods. Static fields
             and methods are owned by the class so do not require an object instance to
             be called.
 */
@@ -16,7 +16,7 @@ namespace static_keyword
             Person person2 = new Person("Fred");
             Person person3 = new Person("Wendy");
 
-            // Print out static member
+            // Print out static field
             Console.WriteLine("Number of people: " + Person.numberOfPeople);
 
             // Call static method
@@ -27,9 +27,9 @@ namespace static_keyword
     // Person class
     class Person
     {
-        // members
+        // fields
         public string name;
-        public static int numberOfPeople = 0; // static member owned by class
+        public static int numberOfPeople = 0; // static field owned by class
 
         // constructor
         public Person(string name)

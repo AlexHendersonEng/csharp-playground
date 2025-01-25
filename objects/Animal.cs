@@ -3,7 +3,7 @@
     // Animal class
     internal class Animal
     {
-        // member
+        // field
         public bool alive = true;
 
         // method

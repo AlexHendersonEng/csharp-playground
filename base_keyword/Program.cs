@@ -1,5 +1,5 @@
 ﻿/*
-    base: Used to access members/methods of the parent class from within a
+    base: Used to access members of the parent class from within a
           base class.
 */
 

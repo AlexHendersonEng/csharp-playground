@@ -11,7 +11,7 @@ namespace constructors
             // Instantiate Person object (uses constructor)
             Person person = new Person("Bob");
 
-            // Print Person member
+            // Print Person field
             Console.WriteLine($"Person name: {person.name}");
 
             // Call Person method
@@ -21,7 +21,7 @@ namespace constructors
         // Person class
         class Person
         {
-            // member
+            // field
             public string name;
 
             // constructor

@@ -8,7 +8,7 @@
             Person person = new Person();
             person.name = "Bob";
 
-            // Print Person member
+            // Print Person field
             Console.WriteLine($"Person name: {person.name}");
 
             // Call Person method
@@ -17,7 +17,7 @@
             // Instantiate Animal object
             Animal animal = new Animal();
 
-            // Print Animal member
+            // Print Animal field
             Console.WriteLine($"Animal alive: {animal.alive}");
 
             // Call Animal method

@@ -16,7 +16,7 @@ namespace abstract_keyword
             // it is abstract)
             Car car = new Car();
 
-            // Print inherited member and call inherited method
+            // Print inherited field and call inherited method
             Console.WriteLine("Car speed: " + car.speed);
             car.hello();
 
